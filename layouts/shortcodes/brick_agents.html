@@ -1,0 +1,15 @@
+{{- $parts := split .Inner "---" -}}
+<section class="agents">
+    <div class="container small">
+        {{- markdownify (index $parts 0) -}}
+    </div>
+    <div class="container">
+        <ul class="grid agents">
+            {{- range after 1 $parts -}}
+                <li class="card">
+                    {{- markdownify . | safeHTML -}}
+                </li>
+            {{- end -}}
+        </ul>
+    </div>
+</section>

@@ -1,0 +1,14 @@
+logo_image:
+menuitems:
+  - title: Home
+    link: /
+  - title: Product
+    link: /product/
+  - title: For Partners
+    link: /partners/
+  - title: CFO Suite
+    link: /cfo-suite/
+  - title: Book a Demo
+    link: /demo/
+socials:
+footer_text: Canvas is powered by [Memintel](https://memintel.io), an open-source deterministic decision engine. &copy; 2025 SooperGenAI.

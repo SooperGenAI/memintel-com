@@ -1,0 +1,18 @@
+logo_image: /images/canvas-logo.png
+logo_subtitle:
+dark_header: false
+mobile_view_width: 1100
+preheader:
+menuitems:
+  - title: Home
+    link: /
+  - title: Product
+    link: /product/
+  - title: For Partners
+    link: /partners/
+  - title: CFO Suite
+    link: /cfo-suite/
+cta:
+  active: true
+  title: Book a Demo
+  link: /demo/

@@ -1,0 +1,3 @@
+[submodule "themes/hugobricks"]
+	path = themes/hugobricks
+	url = https://github.com/jhvanderschee/hugobricks.git

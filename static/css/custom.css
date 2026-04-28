@@ -1,0 +1,239 @@
+/* Canvas Cloud brand overrides */
+:root {
+    --textDarker: #0a1628;
+    --textDark: #12233d;
+    --textMedium: rgba(18, 35, 61, 0.7);
+    --borderMedium: rgba(18, 35, 61, 0.2);
+    --borderLight: rgba(18, 35, 61, 0.075);
+    --accent: #2563eb;
+    --accentDarker: #1d4ed8;
+    --light: rgba(18, 35, 61, 0.04);
+}
+
+/* Logo sizing */
+a.logo img {
+    height: 5rem;
+}
+
+a.logo {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+/* Header refinements */
+header {
+    border-bottom: 1px solid var(--borderLight);
+}
+
+/* Login button — outline secondary style */
+header .login-btn {
+    background: transparent;
+    color: var(--textDark);
+    border: 1.5px solid var(--borderMedium);
+    box-shadow: none;
+}
+
+header .login-btn:hover {
+    background: var(--light);
+    border-color: var(--textDark);
+}
+
+/* Intro section — full-width container, matching other sections */
+section.intro .container.small {
+    max-width: 84rem;
+    text-align: center;
+}
+
+section.intro h1 {
+    font-size: 3rem;
+    line-height: 1.1;
+    color: var(--textDark);
+}
+
+section.intro h1 + p {
+    font-size: 1.2rem;
+    color: var(--textMedium);
+    max-width: none;
+}
+
+/* Hero image */
+section.intro img {
+    width: min(42rem, 90%);
+}
+
+/* Prevent features section title from wrapping */
+section.features .container.small h2 {
+    white-space: nowrap;
+}
+
+/* Feature grid items */
+section.features ul.grid li.has_icon {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    background: var(--textDark);
+}
+
+section.features ul.grid li.has_icon h3,
+section.features ul.grid li.has_icon p {
+    color: white;
+}
+
+/* Dark image sections (brick_image2) */
+section.image.alt {
+    background: var(--textDark) !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+section.image.alt h2,
+section.image.alt p,
+section.image.alt li {
+    color: white !important;
+}
+
+section.image.alt a {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+/* Agents section (product page — 15 pre-built agents) */
+section.agents {
+    background: var(--textDark);
+    padding: 4.5rem 0 5rem;
+}
+
+section.agents .container.small h2,
+section.agents .container.small p {
+    color: white;
+}
+
+section.agents .container.small h2 {
+    white-space: nowrap;
+}
+
+section.agents .container.small {
+    max-width: 84rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+section.agents ul.agents {
+    gap: 1.5rem;
+}
+
+section.agents ul.agents li.card {
+    background: white;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    text-align: left;
+    list-style: none;
+}
+
+section.agents ul.agents li.card h3 {
+    color: var(--textDark);
+    padding-top: 0;
+    margin-bottom: 0.25rem;
+}
+
+section.agents ul.agents li.card > p:first-of-type {
+    color: var(--accent);
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin: 0 0 1rem;
+}
+
+section.agents ul.agents li.card ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+section.agents ul.agents li.card ul li {
+    color: var(--textMedium);
+    font-size: 0.9rem;
+    padding: 0.4rem 0;
+    border-top: 1px solid var(--borderLight);
+}
+
+section.agents ul.agents li.card ul li:first-child {
+    border-top: none;
+    padding-top: 0;
+}
+
+/* Blocks (CFO modules) — dark section, light boxes */
+section.blocks {
+    background: var(--textDark);
+}
+
+section.blocks .container.small h2,
+section.blocks .container.small p {
+    color: white;
+}
+
+section.blocks ul.grid li.box {
+    border: 1px solid var(--borderLight);
+    border-radius: 0.75rem;
+    background: white;
+    transition: box-shadow 0.2s ease;
+}
+
+section.blocks ul.grid li.box:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+section.blocks ul.grid li.box h3,
+section.blocks ul.grid li.box p,
+section.blocks ul.grid li.box a {
+    color: var(--textDark);
+}
+
+/* CTA section */
+section.cta {
+    background: var(--textDark) !important;
+}
+
+section.cta h2,
+section.cta p,
+section.cta li {
+    color: white !important;
+}
+
+section.cta .button {
+    background: var(--accent);
+}
+
+/* Dark footer */
+footer.dark {
+    background: var(--textDarker);
+}
+
+/* Select element styling */
+.form select.form-control {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--borderMedium);
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    color: var(--textDark);
+    background: white;
+    appearance: auto;
+    cursor: pointer;
+}
+
+.form select.form-control:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+/* Demo page contact section */
+section.contact .container.twocols .text h2 {
+    margin-top: 0;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+    section.intro h1 {
+        font-size: 2.2rem;
+    }
+}

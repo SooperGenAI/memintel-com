@@ -1,0 +1,33 @@
+baseURL: https://www.memintel.com/
+title: Canvas
+theme: hugobricks
+themesDir: themes/hugobricks/themes
+defaultContentLanguage: en
+assetDir: static
+
+disableKinds:
+  - taxonomy
+  - term
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      extras:
+        insert:
+          enable: true
+        mark:
+          enable: true
+        subscript:
+          enable: true
+        superscript:
+          enable: true
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    disabled: false
+    params:
+      flag:

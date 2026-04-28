@@ -1,0 +1,41 @@
+action: https://formspree.io/f/YOUR_FORM_ID
+placeholders: false
+fields:
+  - name: title
+    input_type: html
+    label: <h3>Tell us about your practice</h3>
+    required: false
+  - name: name
+    input_type: text
+    label: Name
+    required: true
+  - name: company
+    input_type: text
+    label: Company
+    required: true
+  - name: email
+    input_type: email
+    label: Email address
+    required: true
+  - name: phone
+    input_type: tel
+    label: Phone
+    required: false
+  - name: company_type
+    input_type: select
+    label: Company Type
+    options:
+      - CA Firm
+      - BPO
+      - Consulting
+      - Big 4 GDS
+      - Other
+    required: true
+  - name: num_clients
+    input_type: text
+    label: Approximate number of clients
+    required: false
+  - name: submit
+    input_type: submit
+    label: Request Demo
+    required: true

@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C D:/Arun/Memintel/memeintel-com status)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(hugo new *)",
+      "Bash(git submodule *)",
+      "Bash(cp *)",
+      "Bash(mkdir -p D:/Arun/Memintel/memeintel-com/data/en)",
+      "Bash(mkdir -p D:/Arun/Memintel/memeintel-com/layouts/_partials)",
+      "Bash(mkdir -p D:/Arun/Memintel/memeintel-com/content/product)",
+      "Bash(mkdir -p D:/Arun/Memintel/memeintel-com/content/partners)",
+      "Bash(mkdir -p D:/Arun/Memintel/memeintel-com/content/cfo-suite)",
+      "Bash(hugo --gc)",
+      "Bash(hugo env *)",
+      "Bash(hugo --printPathWarnings --verbose)",
+      "Bash(hugo config *)",
+      "Bash(hugo server *)",
+      "Bash(curl -s http://localhost:1313/)",
+      "Bash(curl -s http://localhost:1313/product/)",
+      "Bash(curl -s http://localhost:1313/demo/)",
+      "Bash(curl -s http://localhost:1313/css/style.css)",
+      "Bash(pkill -f \"hugo server\")",
+      "Bash(hugo --gc --minify)",
+      "Bash(git -C D:/Arun/Memintel/memeintel-com status --short)",
+      "Bash(python -c \"from PIL import Image; print\\('Pillow OK'\\)\")",
+      "Bash(identify \"D:/Arun/Memintel/memeintel-com/logo/Canvas_Logo.png\")",
+      "Bash(magick identify *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:1313/images/canvas-logo.png)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:1313/favicon.png)",
+      "Bash(grep -o 'fill:#[0-9a-fA-F]\\\\{3,6\\\\}' D:/Arun/Memintel/memeintel-com/static/uploads/illustrations/cuate/assets.svg)",
+      "Bash(python *)",
+      "Bash(sed -n '38,55p' \"D:/Arun/Memintel/memeintel-com/themes/hugobricks/themes/hugobricks/static/css/base.css\")",
+      "Bash(sed -n '148,170p' \"D:/Arun/Memintel/memeintel-com/themes/hugobricks/themes/hugobricks/static/css/base.css\")",
+      "Bash(hugo --quiet)"
+    ]
+  }
+}
