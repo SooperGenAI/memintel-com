@@ -33,7 +33,13 @@
       "Bash(python *)",
       "Bash(sed -n '38,55p' \"D:/Arun/Memintel/memeintel-com/themes/hugobricks/themes/hugobricks/static/css/base.css\")",
       "Bash(sed -n '148,170p' \"D:/Arun/Memintel/memeintel-com/themes/hugobricks/themes/hugobricks/static/css/base.css\")",
-      "Bash(hugo --quiet)"
+      "Bash(hugo --quiet)",
+      "Bash(aws ecs describe-services *)",
+      "Bash(aws ecs run-task *)",
+      "Bash(aws ecs *)",
+      "Bash(aws logs *)",
+      "PowerShell(aws ecs describe-task-definition *)",
+      "PowerShell(aws ecs *)"
     ]
   }
 }
