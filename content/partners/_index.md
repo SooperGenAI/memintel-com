@@ -12,7 +12,7 @@ title: For Partners
 
 ## From periodic engagements to always-on client relationships.
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/illustrations/cuate/version-control2.svg)
 
 Today you visit quarterly. You review what happened. You file a report. And then three months pass before you look again.
 
