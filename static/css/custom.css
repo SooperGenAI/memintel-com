@@ -27,14 +27,14 @@ header {
 
 /* Login button — outline secondary style */
 header .login-btn {
-    background: transparent;
-    color: var(--textDark);
+    background: transparent !important;
+    color: var(--textDark) !important;
     border: 1.5px solid var(--borderMedium);
     box-shadow: none;
 }
 
 header .login-btn:hover {
-    background: var(--light);
+    background: var(--light) !important;
     border-color: var(--textDark);
 }
 
