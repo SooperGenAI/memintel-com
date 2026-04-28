@@ -168,13 +168,11 @@ Scoped views filtered to each team member's responsibilities. The AR team sees A
 {{< /brick_agents >}}
 {{< brick_image >}}
 
-## Reports generated automatically
+## Automated reporting
 
 ![](/uploads/illustrations/cuate/publish.svg)
 
-7 auto-generated PowerPoint reports cover the full CFO Suite — one per module plus an executive summary. Each agent also generates a per-alert detail report.
-
-Reports are ready for direct client delivery. No manual formatting.
+Presentation-ready reports for every agent and executive dashboards — generated on demand, ready to share with your clients in one click.
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
