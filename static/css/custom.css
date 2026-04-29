@@ -61,9 +61,23 @@ section.intro img {
     width: min(42rem, 90%);
 }
 
-/* Prevent features section title from wrapping */
-section.features .container.small h2 {
-    white-space: nowrap;
+
+/* Features section intro — allow wrapping and center */
+section.features .container.small {
+    max-width: 84rem;
+    text-align: center;
+}
+
+/* Close Readiness Score — force 4+4 grid for 8 items */
+/* :has(+ section.features) matches only this section, since it's the sole features section immediately followed by another */
+section.features:has(+ section.features) ul.grid.features {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 860px) {
+    section.features:has(+ section.features) ul.grid.features {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 /* Feature grid items */
@@ -179,6 +193,42 @@ section.blocks ul.grid li.box {
 
 section.blocks ul.grid li.box:hover {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Custom Agents — centred in last row, dark blue (home CFO Suite grid) */
+section.blocks ul.grid li.box:last-child {
+    grid-column: 2;
+    background: var(--accent);
+}
+
+section.blocks ul.grid li.box:last-child h3,
+section.blocks ul.grid li.box:last-child p,
+section.blocks ul.grid li.box:last-child a {
+    color: white;
+}
+
+@media (max-width: 768px) {
+    section.blocks ul.grid li.box:last-child {
+        grid-column: auto;
+    }
+}
+
+/* Custom Agents — centred in last row, light blue (product page agents grid) */
+section.features + section.agents ul.grid li.card:last-child {
+    grid-column: 2;
+    background: #dbeafe;
+}
+
+section.features + section.agents ul.grid li.card:last-child h3,
+section.features + section.agents ul.grid li.card:last-child p,
+section.features + section.agents ul.grid li.card:last-child li {
+    color: var(--textDark);
+}
+
+@media (max-width: 768px) {
+    section.features + section.agents ul.grid li.card:last-child {
+        grid-column: auto;
+    }
 }
 
 section.blocks ul.grid li.box h3,

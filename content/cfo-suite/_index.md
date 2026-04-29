@@ -5,9 +5,9 @@ title: CFO Suite
 
 {{< breadcrumbs >}}
 
-# CFO Suite — 15 Monitoring Agents
+# CFO Suite — 18 Monitoring Agents
 
-Six modules covering every dimension of financial health. Each agent starts working the moment you connect your client's ERP.
+Seven modules covering every dimension of financial health. Each agent starts working the moment you connect your client's ERP.
 
 {{< /brick_title >}}
 {{< brick_image >}}
@@ -97,6 +97,23 @@ GST errors are silent and expensive. These five agents catch them before they be
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
+## Close Integrity Monitor — 3 agents
+
+![](/uploads/illustrations/cuate/publish.svg)
+
+Month-end close problems build over 25 days but are discovered in 3. These three agents check close readiness continuously so your team arrives at month-end with nothing to fix.
+
+**Bank Reconciliation Status Monitor** identifies unmatched bank transactions. Flags items unreconciled for more than 5 days so your team resolves them before close.
+
+**Suspense Account Aging Monitor** watches suspense and clearing accounts for aging items. Flags entries sitting uncleared for more than 15 days.
+
+**Accrual Reversal Missing Monitor** tracks period-end accruals and checks whether reversals have been posted. Flags unreversed accruals that will distort the next period's results.
+
+*Sample alert: "3 bank transactions unreconciled beyond 5 days. 2 suspense items aging 18 days. 1 unreversed accrual from prior period — close readiness: At Risk."*
+
+{{< /brick_image2 >}}
+{{< brick_image >}}
+
 ## Custom Agents — anything your client needs
 
 ![](/uploads/illustrations/cuate/writing.svg)
@@ -112,10 +129,10 @@ Describe the monitoring intent in plain English — exactly as you'd explain it 
 
 Our team works with you to design agents for your specific client needs. No coding required on your side.
 
-{{< /brick_image2 >}}
+{{< /brick_image >}}
 {{< brick_cta >}}
 
-## See all 15 agents working on your client's data.
+## See all 18 agents working on your client's data
 
 Our team runs a personalised demo using your client's actual ERP structure within 48 hours of your request.
 

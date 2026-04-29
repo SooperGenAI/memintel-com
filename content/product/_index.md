@@ -59,7 +59,7 @@ Cloud ERP connector for NetSuite's financial modules. Multi-subsidiary support.
 {{< /brick_features >}}
 {{< brick_agents >}}
 
-## 15 pre-built agents, organised by module
+## 18 pre-built agents, organised by module
 
 Ready the moment you connect. No configuration needed to get started.
 
@@ -115,6 +115,16 @@ Ready the moment you connect. No configuration needed to get started.
 
 ---
 
+### Close Integrity Monitor
+
+3 agents monitoring close readiness
+
+- Bank Reconciliation Status Monitor — Flags unmatched bank transactions aging beyond 5 days
+- Suspense Account Aging Monitor — Detects uncleared items in suspense accounts beyond 15 days
+- Accrual Reversal Missing Monitor — Catches accruals from prior periods that haven't been reversed
+
+---
+
 ### Custom Agents
 
 Your monitoring logic, compiled in minutes
@@ -122,6 +132,17 @@ Your monitoring logic, compiled in minutes
 Describe what you want to monitor in plain English. Canvas compiles it into a deterministic agent. No coding required.
 
 {{< /brick_agents >}}
+{{< brick_image2 >}}
+
+## Close Readiness Score and Portfolio View
+
+![](/uploads/illustrations/cuate/version-control2.svg)
+
+**Close Readiness Score** — Every client gets a single score that tells you whether they're ready to close. The score aggregates the status of all 18 agents across all 7 modules into one number. Your team knows exactly what to fix and in what order.
+
+**Portfolio View** — Managing 50 clients? See every client's Close Readiness Score in a single dashboard. 38 Ready. 8 At Risk. 4 Not Ready. Focus where it matters most. No more chasing status updates from individual teams.
+
+{{< /brick_image2 >}}
 {{< brick_image >}}
 
 ## Custom agents in minutes, not months
@@ -192,7 +213,7 @@ Presentation-ready reports for every agent and executive dashboards — generate
 {{< /brick_image2 >}}
 {{< brick_cta >}}
 
-## See it working on your client's data.
+## See it working on your client's data
 
 Our team sets up a personalised demo using your client's actual ERP structure within 48 hours.
 

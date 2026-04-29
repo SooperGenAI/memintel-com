@@ -39,7 +39,8 @@
       "Bash(aws ecs *)",
       "Bash(aws logs *)",
       "PowerShell(aws ecs describe-task-definition *)",
-      "PowerShell(aws ecs *)"
+      "PowerShell(aws ecs *)",
+      "Bash(hugo --minify)"
     ]
   }
 }

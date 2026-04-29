@@ -10,20 +10,18 @@ title: For Partners
 {{< /brick_title >}}
 {{< brick_image >}}
 
-## From periodic engagements to always-on client relationships.
+## From month-end fire drills to planned closes
 
 ![](/uploads/illustrations/cuate/version-control2.svg)
 
-Today you visit quarterly. You review what happened. You file a report. And then three months pass before you look again.
+Today, your team spends 3-5 days per client scrambling through bank reconciliations, suspense accounts, and accrual reversals. Canvas does this continuously. By the time close arrives, everything is already checked.
 
-With Canvas, you're monitoring daily. Every client's finances, watched continuously. You become essential infrastructure — not a periodic service provider.
-
-Sporadic quarterly engagements become continuous client relationships. One-time project fees become recurring revenue.
+The Close Readiness Score gives your clients a single number they understand. The Portfolio View gives you visibility across all clients at once.
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-## Deployment is fast. Not months — hours.
+## Deployment is fast. Not months — hours
 
 ![](/uploads/illustrations/cuate/setup.svg)
 
@@ -50,7 +48,7 @@ One partner managing 50+ clients from a single dashboard. Each client fully isol
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
 ### Pre-built agents, immediately
 
-No scoping sessions. No development. Connect the ERP and 15 agents start monitoring immediately. You're delivering value before the client finishes their first cup of coffee.
+No scoping sessions. No development. Connect the ERP and 18 agents across 7 modules start monitoring immediately. You're delivering value before the client finishes their first cup of coffee.
 
 ---
 
@@ -83,7 +81,7 @@ Presentation-ready reports for every agent and executive dashboards — generate
 {{< /brick_features >}}
 {{< brick_image >}}
 
-## Technical support that goes further than documentation.
+## Technical support that goes further than documentation
 
 ![](/uploads/illustrations/cuate/webinar.svg)
 

@@ -5,38 +5,105 @@ title: Home
 
 # Agentic AI for continuous financial monitoring
 
-Deploy AI-powered agents that connect to any ERP, watch every transaction, and alert the moment something needs attention.<br>And unlike other AI — Canvas is fully deterministic, consistent, and auditable.
+Canvas deploys AI agents that continuously monitor your clients' books — bank reconciliation, suspense accounts, accruals, AR, AP, GST. Know exactly what needs fixing before close of accounts. And unlike other AI — Canvas is fully deterministic, consistent, and auditable.
 
 ![](/uploads/illustrations/cuate/assets.svg)
 
 {{< /brick_intro >}}
 {{< brick_image2 >}}
 
-## Built for firms that serve clients at scale.
-
-Accounting firms, BPOs, and consultancies use Canvas to deliver continuous financial monitoring to their clients. One platform. Hundreds of clients. Always-on oversight that strengthens every engagement.
+## Built for accounting firms, BPOs, and consultancies
 
 ![](/uploads/illustrations/cuate/design.svg)
+
+Built for accounting firms, BPOs, and consultancies that manage month-end close for their clients. One platform. Hundreds of clients. No more fire drills.
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## Your clients' finances are reviewed quarterly.<br>The risks build daily.
+## Month-end closures are currently a nightmare
 
 ![](/uploads/illustrations/cuate/entries.svg)
 
-Your clients' financial health is reviewed quarterly. Between reviews, nobody's watching. Risks build silently. When something goes wrong, you find out late.
+Problems that built up over 25 days are discovered in 3. Close gets delayed. Errors slip through. Your team works late. It doesn't scale.
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-## From sporadic reviews to always-on oversight.
+## Canvas monitors your clients' books continuously — not just at month-end
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
-Canvas monitors your clients' finances continuously. Every customer, every invoice, every bank account — watched automatically, every day. You go from sporadic reviews to always-on oversight.
+Every bank transaction, every suspense entry, every unreversed accrual, every overdue invoice. Problems are flagged the day they occur, not the day before close.
 
 {{< /brick_image2 >}}
+{{< brick_features >}}
+
+## Every client gets a Close Readiness Score
+
+A single number that tells you: "Are we ready to close?"
+
+<p style="font-size:0.9em"><em>"Score: 82/100 — At Risk. Two items need attention."</em></p>
+
+Your team knows exactly what to fix to achieve close of books
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Bank Reconciliation
+
+Unmatched transactions identified daily
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Suspense Accounts
+
+Aging items flagged before they become stale
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Accrual Reversals
+
+Missing reversals caught automatically
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### AR Aging
+
+Overdue receivables and credit risk monitored
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### AP Payments
+
+Large payables and vendor concentration tracked
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Cash Position
+
+Balance drops and burn rate alerts
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### GST Readiness
+
+Missing info, rate anomalies, classification errors
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### GL Variance
+
+Budget vs actual divergence flagged
+
+{{< /brick_features >}}
 {{< brick_features >}}
 
 ## How it works
@@ -48,26 +115,35 @@ Three steps. First alerts within minutes of connecting.
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
 ### Connect
 
-Plug into your client's ERP. Tally, Zoho, SAP, SQL databases, and more. Setup takes minutes, not days.
+Plug into your client's ERP. Tally, Zoho, SAP, any SQL database. Minutes, not days.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### Monitor
 
-15+ pre-built agents start watching immediately — credit risk, cash stress, overdue invoices, GST anomalies, budget variance. Need something custom? Describe it in plain English. A new agent is live in minutes.
+18 AI agents watch everything: bank reconciliation, suspense aging, missing accrual reversals, credit risk, overdue invoices, GST compliance, cash position, budget variance. Pre-built and ready.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Alert
+### Close with confidence
 
-The CFO sees exactly what needs attention right now. PowerPoint reports are generated automatically. Your team sees everything across all clients from a single portal.
+The Close Readiness dashboard shows exactly what's green, what's red, and what needs fixing. Download a presentation-ready report in one click.
 
 {{< /brick_features >}}
+{{< brick_image >}}
+
+## See your entire portfolio at a glance.
+
+![](/uploads/illustrations/cuate/version-control2.svg)
+
+Managing 50 clients? See every client's close readiness in one view. 38 Ready. 8 At Risk. 4 Not Ready. Focus on the 4 that matter.
+
+{{< /brick_image >}}
 {{< brick_image2 >}}
 
-## The intelligence of AI.<br>The reliability of a deterministic system.
+## The intelligence of AI.<br>The reliability of a deterministic system
 
 ![](/uploads/illustrations/cuate/server.svg)
 
@@ -82,56 +158,56 @@ Every decision consistent, transparent, and auditable. You can deliver outsource
 {{< /brick_image2 >}}
 {{< brick_features >}}
 
-## Why accounting firms choose Canvas
+## For your practice
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Close without fire drills
+
+Go from month-end fire drills to planned, predictable closes.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### Deploy a new client in hours
 
-Pre-built agents work immediately. Custom agents take minutes to create. Our team provides hands-on support in creating and managing agents for your clients.
+18 pre-built agents work immediately. Custom agents take minutes.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Hands-on support
+
+Our team provides hands-on support in creating and managing agents for your clients.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/devices.svg)
 ### One portal, all clients
 
-Monitor all your clients from a single dashboard. Scale to 50+ without adding headcount.
+One portal to monitor all your clients. Scale to 50+ without adding headcount.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Recurring revenue
+### No developers needed
 
-Sporadic quarterly engagements become continuous client relationships. One-time project fees become recurring revenue.
+Your accounting professionals can deploy and manage Canvas.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Hands-on support
-
-Our team works alongside you to create custom agents, tune thresholds, and manage the monitoring for your clients. You bring the domain expertise. We handle the platform.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### No developers needed
-
-Your accounting professionals can deploy and manage Canvas. No engineering team required. No AI expertise needed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
 ### Seamless ERP integration
 
-An extensive connector library covers Tally, Zoho, SAP, QuickBooks, and any SQL database. Most clients are connected in minutes.
+Tally, Zoho, SAP, QuickBooks, and any SQL database connected in minutes.
 
 {{< /brick_features >}}
 {{< brick_blocks >}}
 
-## CFO Suite — 15 pre-built monitoring agents
+## CFO Suite — 18 pre-built monitoring agents
 
-Comprehensive financial monitoring across 6 modules. Starts working the moment you connect your client's ERP.
+Comprehensive financial monitoring across 7 modules. Starts working the moment you connect your client's ERP.
 
 ---
 
@@ -172,6 +248,14 @@ Are you overspending against budget.
 Missing GSTIN, wrong rates, classification errors, ITC anomalies.
 
 [5 agents — learn more](/cfo-suite/)
+
+---
+
+### Close Integrity Monitor
+
+Bank reconciliation, suspense aging, accrual reversals — monitored daily.
+
+[3 agents — learn more](/cfo-suite/)
 
 ---
 
