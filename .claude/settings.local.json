@@ -40,7 +40,11 @@
       "Bash(aws logs *)",
       "PowerShell(aws ecs describe-task-definition *)",
       "PowerShell(aws ecs *)",
-      "Bash(hugo --minify)"
+      "Bash(hugo --minify)",
+      "Bash(hugo)",
+      "Bash(cd /d \"D:/Arun/Memintel/memeintel-com\")",
+      "Bash(hugo.exe)",
+      "Bash(echo \"EXIT:$?\")"
     ]
   }
 }

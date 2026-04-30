@@ -15,7 +15,7 @@ Our team will set up a personalised demo within 48 hours.
 We'll walk through:
 
 - Connecting a sample ERP (or your own sandbox data)
-- The 15 pre-built agents running live
+- The 18 pre-built agents running live
 - Creating a custom agent in real time
 - The partner portal, CFO portal, and automated reports
 
