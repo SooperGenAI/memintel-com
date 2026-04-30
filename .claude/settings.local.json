@@ -44,7 +44,8 @@
       "Bash(hugo)",
       "Bash(cd /d \"D:/Arun/Memintel/memeintel-com\")",
       "Bash(hugo.exe)",
-      "Bash(echo \"EXIT:$?\")"
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(python3 *)"
     ]
   }
 }
