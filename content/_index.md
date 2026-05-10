@@ -188,6 +188,17 @@ One client relationship manager sees your complete financial picture. Not separa
 Behind the scenes, Memintel runs on Canvas Cloud — our proprietary AI platform built on the Memintel open-source intelligence engine. Deterministic, auditable, consistent. AI understands your intent. Deterministic logic executes every time. No black-box decisions on your compliance. No hallucinated tax computations. Every alert, every computation, every recommendation is traceable and explainable.
 
 {{< /brick_image2 >}}
+{{< brick_image >}}
+
+## Built on Memintel — the open-source decision engine for Agentic AI
+
+![](/uploads/illustrations/cuate/static-website.svg)
+
+At the heart of Canvas Cloud is Memintel — our open-source deterministic semantic compiler purpose-built for agentic AI systems. Memintel separates AI interpretation from operational execution: AI understands your intent once, then deterministic compiled logic runs forever. No runtime LLM calls. No hallucinations. No black-box decisions on your compliance. Every alert is traceable. Every computation is reproducible. Every decision is auditable. This is what makes Canvas fundamentally different from every other AI-powered finance tool.
+
+{{< button "Explore Memintel →" "https://www.memintel.io/" >}}
+
+{{< /brick_image >}}
 {{< brick_cta >}}
 
 ## Ready to simplify your finance operations?
