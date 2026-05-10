@@ -45,7 +45,20 @@
       "Bash(cd /d \"D:/Arun/Memintel/memeintel-com\")",
       "Bash(hugo.exe)",
       "Bash(echo \"EXIT:$?\")",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(git *)",
+      "Bash(hugo version *)",
+      "Bash(hugo --gc --minify --quiet)",
+      "Bash(echo \"---EXIT $?---\")",
+      "Bash(curl -s -o NUL -w \"Home %{http_code}\\\\n\" http://127.0.0.1:1313/)",
+      "Bash(curl -s -o NUL -w \"Services %{http_code}\\\\n\" http://127.0.0.1:1313/product/)",
+      "Bash(curl -s -o NUL -w \"How We Work %{http_code}\\\\n\" http://127.0.0.1:1313/partners/)",
+      "Bash(curl -s -o NUL -w \"Why Memintel %{http_code}\\\\n\" http://127.0.0.1:1313/cfo-suite/)",
+      "Bash(curl -s -o NUL -w \"Talk to Us %{http_code}\\\\n\" http://127.0.0.1:1313/demo/)",
+      "Bash(curl *)",
+      "Bash(powershell *)",
+      "Bash(hugo --gc --quiet)",
+      "Bash(echo \"EXIT $?\")"
     ]
   }
 }

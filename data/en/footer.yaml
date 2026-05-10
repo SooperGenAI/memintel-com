@@ -2,13 +2,13 @@ logo_image:
 menuitems:
   - title: Home
     link: /
-  - title: Product
+  - title: Services
     link: /product/
-  - title: For Partners
+  - title: How We Work
     link: /partners/
-  - title: CFO Suite
+  - title: Why Memintel
     link: /cfo-suite/
-  - title: Book a Demo
+  - title: Talk to Us
     link: /demo/
 socials:
-footer_text: Canvas is powered by [Memintel](https://memintel.io), an open-source deterministic decision engine. &copy; 2025 SooperGenAI.
+footer_text: Memintel is your AI-powered Chartered Accountant — powered by [Canvas Cloud](https://memintel.io). &copy; 2025 SooperGenAI.

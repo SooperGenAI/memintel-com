@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## Always-on monitoring for your clients.
+## Ready to simplify your finance operations?
 
-Deploy the first client in hours. Build a recurring monitoring practice.
+One team. One platform. One monthly fee. Big 4 quality at half the cost
 
-{{< button "Book a Demo" "/demo/" >}}
+{{< button "Talk to Us" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/webinar.svg)

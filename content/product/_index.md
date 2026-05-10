@@ -1,223 +1,98 @@
 ---
-title: Product
+title: Services
 ---
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
-# Canvas — Product
+# Our Services
+
+Memintel delivers eight integrated finance services through a single client relationship. Each service is powered by Canvas Cloud's AI agents, computation engines, and reconciliation intelligence
 
 {{< /brick_title >}}
-{{< brick_features >}}
+{{< brick_image >}}
 
-## Connector ecosystem
-
-Connect any ERP. If your client's data is in a database, we can connect to it.
-
----
-
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Tally Prime & Zoho Books
-
-Native connectors for India's most widely used accounting platforms. Zero data export required.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### SAP S/4HANA & ERPNext
-
-Enterprise ERP connectors with support for multi-entity and multi-currency setups.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Xero & QuickBooks
-
-Cloud-native connectors for international practices.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Any SQL Database
-
-PostgreSQL, MySQL, Snowflake, BigQuery, Redshift, Databricks. Edge agents for on-premise systems where data cannot leave the client environment.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Microsoft Dynamics 365
-
-Full integration with Dynamics 365 Finance & Operations via Azure AD and OData APIs.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Oracle NetSuite
-
-Cloud ERP connector for NetSuite's financial modules. Multi-subsidiary support.
-
-{{< /brick_features >}}
-{{< brick_agents >}}
-
-## 18 pre-built agents, organised by module
-
-Ready the moment you connect. No configuration needed to get started.
-
----
-
-### AR Health Monitor
-
-4 agents monitoring receivables and credit risk
-
-- DSO Monitor — tracks how long customers take to pay
-- Overdue AR Alert — flags invoices past their due date
-- Credit Limit Breach — catches customers exceeding credit limits
-- AR Concentration Risk — warns when too much revenue depends on one customer
-
----
-
-### AP Management Monitor
-
-3 agents monitoring payables and vendor risk
-
-- DPO Monitor — tracks payment timeliness to vendors
-- Large AP Due Alert — flags big payments due this week
-- Vendor Concentration Risk — warns when too much spend is with one vendor
-
----
-
-### Cash & Treasury Monitor
-
-2 agents monitoring liquidity
-
-- Cash Position Alert — flags when balances drop below safe levels
-- Cash Burn Rate — detects accelerating cash outflow
-
----
-
-### GL Variance Monitor
-
-1 agent monitoring budget adherence
-
-- Budget Variance Alert — catches overspend or underspend against budget
-
----
-
-### GST Risk Monitor
-
-5 agents monitoring tax compliance
-
-- GST Rate Anomaly — detects non-standard GST rates
-- GST Liability Spike — flags unusual liability increases
-- ITC Anomaly — catches irregular input tax credit claims
-- Missing GST Info — flags invoices missing GSTIN
-- GST Classification Error — detects misclassified transactions
-
----
-
-### Close Integrity Monitor
-
-3 agents monitoring close readiness
-
-- Bank Reconciliation Status Monitor — Flags unmatched bank transactions aging beyond 5 days
-- Suspense Account Aging Monitor — Detects uncleared items in suspense accounts beyond 15 days
-- Accrual Reversal Missing Monitor — Catches accruals from prior periods that haven't been reversed
-
----
-
-### Custom Agents
-
-Your monitoring logic, compiled in minutes
-
-Describe what you want to monitor in plain English. Canvas compiles it into a deterministic agent. No coding required.
-
-{{< /brick_agents >}}
-{{< brick_image2 >}}
-
-## Close Readiness Score and Portfolio View
+## 1. GST Compliance
 
 ![](/uploads/illustrations/cuate/version-control2.svg)
 
-**Close Readiness Score** — Every client gets a single score that tells you whether they're ready to close. The score aggregates the status of all 18 agents across all 7 modules into one number. Your team knows exactly what to fix and in what order.
+Complete GST lifecycle management. GSTR-1 preparation with 7-category invoice classification. GSTR-3B computation with full ITC adjustments — Section 17(5) blocked credit, Rule 37 non-payment reversal, Rule 42 exempt apportionment, RCM credit, and reconciliation adjustments. Government-portal JSON export. Interest and late fee projection. 10 pre-filing validation checks. 5 GST monitoring agents watch for anomalies continuously.
 
-**Portfolio View** — Managing 50 clients? See every client's Close Readiness Score in a single dashboard. 38 Ready. 8 At Risk. 4 Not Ready. Focus where it matters most. No more chasing status updates from individual teams.
+{{< /brick_image >}}
+{{< brick_image2 >}}
+
+## 2. TDS Compliance
+
+![](/uploads/illustrations/cuate/entries.svg)
+
+End-to-end TDS management. Deduction computation per payment against applicable section rates. Lower deduction certificate tracking. Challan generation and deposit tracking. Form 26Q and Form 27Q quarterly return preparation. 26AS reconciliation. Continuous monitoring for short deductions, deposit delays, and PAN mismatches.
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## Custom agents in minutes, not months
+## 3. GSTR-2B Reconciliation
 
-![](/uploads/illustrations/cuate/writing.svg)
+![](/uploads/illustrations/cuate/version-control.svg)
 
-Describe the monitoring intent in plain English — exactly as you'd explain it to a colleague.
-
-Canvas compiles that intent into fully deterministic logic. A new agent is live and monitoring within minutes.
-
-No coding. No configuration files. Our team supports you in designing agents for specific client needs.
-
-**How it works:** "Alert me when this client's AR days exceed 60 and the overdue balance is more than ₹10 lakhs" → compiled into a deterministic rule → runs every day on the client's live data.
-
-{{< /brick_image >}}
-{{< brick_agents >}}
-
-## Three portals, one platform
-
----
-
-### Partner Portal
-
-Your firm's mission control.
-
-Full visibility and control across all your clients. See every alert, every agent, every client — from a single dashboard. Manage deployments, review reports, track thresholds.
-
----
-
-### CFO Portal
-
-Intelligence at the executive level.
-
-Executive dashboard for your client's finance team. Prioritised alerts, trend charts, and PowerPoint reports generated automatically. The CFO sees exactly what needs attention right now.
-
----
-
-### Team Portal
-
-The right view for every team member.
-
-Scoped views filtered to each team member's responsibilities. The AR team sees AR health. The treasury team sees cash position. No information overload.
-
-{{< /brick_agents >}}
-{{< brick_image >}}
-
-## Automated reporting
-
-![](/uploads/illustrations/cuate/publish.svg)
-
-Presentation-ready reports for every agent and executive dashboards — generated on demand, ready to share with your clients in one click.
+4-pass intelligent matching of your purchase records against GSTR-2B. Exact matching, amount-tolerant matching, invoice similarity matching, and unmatched classification. Live ITC impact computation — confirmed, provisional, blocked, and at-risk credit. Automated vendor follow-up emails for non-compliant suppliers. Human-supervised review for edge cases.
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-## Built on Memintel — open source, compile-once architecture
+## 4. Bank Reconciliation
 
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/illustrations/cuate/assets.svg)
 
-[Memintel](https://memintel.io) is an open-source deterministic decision engine. AI understands your monitoring intent at creation time. That intent is compiled into pure logic. At runtime — zero LLM calls. Same input, same output, every time.
+Daily automated matching of bank statement entries against GL records. Multi-pass matching with confidence scoring. Unreconciled items flagged immediately — not discovered at month-end. Duplicate detection, partial allocation, and missing entry identification.
 
-**For technical teams:**
-- Compile-once, run-forever architecture
-- Full decision trace for every evaluation
-- Auditable outputs — every alert explained
-- Open source core at [memintel.io](https://memintel.io)
+{{< /brick_image2 >}}
+{{< brick_image >}}
+
+## 5. Month-End & Year-End Close
+
+![](/uploads/illustrations/cuate/publish.svg)
+
+Structured close process with automated validation gates. Trial balance verification. Suspense account clearance — non-zero balances flagged beyond one period. Accrual reversal verification. GST/TDS cross-verification against filed returns. Close Readiness Score tells you exactly how ready you are to close — every day of the month.
+
+{{< /brick_image >}}
+{{< brick_image2 >}}
+
+## 6. Continuous Financial Monitoring
+
+![](/uploads/illustrations/cuate/static-website.svg)
+
+43 pre-built AI agents across 13 modules monitor your financial health around the clock. AR health: DSO, credit limit breaches, concentration risk, overdue invoices. AP management: large payments due, vendor concentration. Cash and treasury: position alerts, burn rate. GL variance: budget deviations. Close integrity: suspense accounts, accrual reversals, bank reconciliation status. GST risk: rate anomalies, liability spikes, ITC anomalies, classification errors. India compliance: MSMED payment delays, statutory dues, TDS compliance, revenue recognition.
+
+Beyond pre-built agents, we define custom monitoring rules specific to your industry — *"Alert if food cost exceeds 35% of revenue"* or *"Flag projects with unbilled revenue beyond 60 days."*
+
+{{< /brick_image2 >}}
+{{< brick_image >}}
+
+## 7. Advisory & CFO Reports
+
+![](/uploads/illustrations/cuate/writing.svg)
+
+Monthly CFO advisory report combining your financial data with external market intelligence. Executive summary with top risks and actions. Compliance scorecard across all services. Prioritised actions ranked by rupee impact and deadline urgency — with specific invoice and entity references. ITC optimisation recommendations. Vendor and customer risk assessment. Industry benchmarks: DSO, DPO, margins vs sector averages. Competitor signals from public filings. Trend analysis showing what's improving and deteriorating.
+
+Also available: weekly email digests, on-demand advisory via natural language, and quarterly business review decks.
+
+{{< /brick_image >}}
+{{< brick_image2 >}}
+
+## 8. MIS & Financial Reporting
+
+![](/uploads/illustrations/cuate/design.svg)
+
+Auto-generated management reports from your ERP data. Profit & Loss, Balance Sheet, Cash Flow, segment-wise analysis, and budget vs actuals variance. Cross-ERP consolidation — if you run Tally for operations and a separate system for payroll, we consolidate both into unified MIS.
 
 {{< /brick_image2 >}}
 {{< brick_cta >}}
 
-## See it working on your client's data
+## Ready to simplify your finance operations?
 
-Our team sets up a personalised demo using your client's actual ERP structure within 48 hours.
+One team. One platform. One monthly fee
 
-{{< button "Book a Demo" "/demo/" >}}
+{{< button "Talk to Us" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/webinar.svg)
 

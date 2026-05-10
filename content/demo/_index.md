@@ -1,24 +1,24 @@
 ---
-title: Book a Demo
+title: Talk to Us
 ---
 {{< brick_title >}}
 
-# Book a Demo
+# Let's talk about your finance operations
 
 {{< /brick_title >}}
 {{< brick_contact >}}
 
-## See Canvas on your client's data.
+## Tell us about your business
 
-Our team will set up a personalised demo within 48 hours.
+Share a few details about your ERP, your current CA setup, and the pain points you're dealing with. We'll show you how Memintel can handle everything for less than what you're paying today.
 
-We'll walk through:
+What we'll cover on the call:
 
-- Connecting a sample ERP (or your own sandbox data)
-- The 18 pre-built agents running live
-- Creating a custom agent in real time
-- The partner portal, CFO portal, and automated reports
+- Your current finance operations setup — providers, costs, gaps
+- What Memintel will take over from day one
+- Your monthly cycle, deliverables, and SLAs
+- Pricing for your business size and complexity
 
-No slides. No generic product tour. A live demo built around your practice.
+A short conversation — not a software demo.
 
 {{< /brick_contact >}}

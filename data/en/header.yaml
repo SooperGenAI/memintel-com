@@ -6,13 +6,13 @@ preheader:
 menuitems:
   - title: Home
     link: /
-  - title: Product
+  - title: Services
     link: /product/
-  - title: For Partners
+  - title: How We Work
     link: /partners/
-  - title: CFO Suite
+  - title: Why Memintel
     link: /cfo-suite/
 cta:
   active: true
-  title: Book a Demo
+  title: Talk to Us
   link: /demo/

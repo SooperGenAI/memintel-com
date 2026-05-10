@@ -3,276 +3,198 @@ title: Home
 ---
 {{< brick_intro >}}
 
-# Agentic AI for continuous financial monitoring
+# Your AI-powered Chartered Accountant
 
-Canvas deploys AI agents that continuously monitor your clients' books — bank reconciliation, suspense accounts, accruals, AR, AP, GST. Know exactly what needs fixing before close of accounts. And unlike other AI — Canvas is fully deterministic, consistent, and auditable.
+One team handles your entire finance function — compliance to advisory — powered by AI that never sleeps.<br>10× the quality of a Big 4 firm, at half the cost
+
+{{< button "Talk to Us" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/assets.svg)
 
 {{< /brick_intro >}}
-{{< brick_image2 >}}
-
-## Built for accounting firms, BPOs, and consultancies
-
-![](/uploads/illustrations/cuate/design.svg)
-
-Built for accounting firms, BPOs, and consultancies that manage month-end close for their clients. One platform. Hundreds of clients. No more fire drills.
-
-{{< /brick_image2 >}}
 {{< brick_image >}}
 
-## Month-end closures are currently a nightmare
+## Your CA is manual, reactive, and last-minute
 
 ![](/uploads/illustrations/cuate/entries.svg)
 
-Problems that built up over 25 days are discovered in 3. Close gets delayed. Errors slip through. Your team works late. It doesn't scale.
+Most of the work happens in a scramble before filing deadlines. Reconciliation is done on spreadsheets. Compliance issues are discovered at filing time, not when they occur. Advisory, if it exists at all, is a backward-looking afterthought. The work itself is largely rules-based and repetitive — but it's still being done manually, the same way it was done twenty years ago.
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-## Canvas monitors your clients' books continuously — not just at month-end
+## What if your CA never slept?
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
-Every bank transaction, every suspense entry, every unreversed accrual, every overdue invoice. Problems are flagged the day they occur, not the day before close.
+Memintel is a Chartered Accountant firm powered by 43 AI agents that watch your books every minute of every day. Not a software tool you have to learn. Not a dashboard you have to check. A finance operations team — backed by AI that has already found the problem before your current CA even opens the file. We do the same work. We just do it continuously, accurately, and at a fraction of the cost.
 
 {{< /brick_image2 >}}
 {{< brick_features >}}
 
-## Every client gets a Close Readiness Score
+## What you get
 
-A single number that tells you: "Are we ready to close?"
+Eight integrated services. One team. One monthly fee
 
-<p style="font-size:0.9em"><em>"Score: 82/100 — At Risk. Two items need attention."</em></p>
+---
 
-Your team knows exactly what to fix to achieve close of books
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### GST Compliance
+
+GSTR-1/3B computed, validated, and filed. ITC optimised with all statutory adjustments. Vendor follow-ups handled.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### TDS Compliance
+
+Deductions computed per payment. Challans tracked. 26AS reconciled. Quarterly returns filed.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### Bank Reconciliation
 
-Unmatched transactions identified daily
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Suspense Accounts
-
-Aging items flagged before they become stale
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Accrual Reversals
-
-Missing reversals caught automatically
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### AR Aging
-
-Overdue receivables and credit risk monitored
+Daily automated matching of bank entries against your books. Unreconciled items flagged and resolved.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### AP Payments
+### GSTR-2B Reconciliation
 
-Large payables and vendor concentration tracked
+4-pass intelligent matching against your purchase records. Live ITC impact computed. Vendor follow-ups generated.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Cash Position
+### Month-End Close
 
-Balance drops and burn rate alerts
+Structured checklist with automated validation. Suspense cleared. Accruals verified. Books closed on time, every time.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### GST Readiness
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Continuous Monitoring
 
-Missing info, rate anomalies, classification errors
+43 AI agents watch every invoice, payment, and GL entry around the clock. Problems caught the day they occur.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### GL Variance
+### Advisory & CFO Reports
 
-Budget vs actual divergence flagged
+Monthly report with prioritised actions, ITC optimisation, industry benchmarks, competitor signals, and market context.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### MIS & Reporting
+
+P&L, Balance Sheet, Cash Flow, segment analysis, budget vs actuals — auto-generated from your ERP data.
 
 {{< /brick_features >}}
 {{< brick_features >}}
 
 ## How it works
 
-Three steps. First alerts within minutes of connecting.
+Three steps. We do the heavy lifting from day one
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Connect
+### We connect
 
-Plug into your client's ERP. Tally, Zoho, SAP, any SQL database. Minutes, not days.
+We plug into your ERP — Tally, Zoho, SAP, QuickBooks, Xero, any SQL database. You change nothing about how you work.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Monitor
+### We monitor
 
-18 AI agents watch everything: bank reconciliation, suspense aging, missing accrual reversals, credit risk, overdue invoices, GST compliance, cash position, budget variance. Pre-built and ready.
+43 AI agents watch your books continuously. Compliance risks, reconciliation gaps, cash flow anomalies, overdue invoices — caught in real time.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Close with confidence
+### We deliver
 
-The Close Readiness dashboard shows exactly what's green, what's red, and what needs fixing. Download a presentation-ready report in one click.
+GST filed. TDS deposited. Books reconciled. Close completed. Advisory delivered. Every month, on time, without drama.
 
 {{< /brick_features >}}
-{{< brick_image >}}
-
-## See your entire portfolio at a glance.
-
-![](/uploads/illustrations/cuate/version-control2.svg)
-
-Managing 50 clients? See every client's close readiness in one view. 38 Ready. 8 At Risk. 4 Not Ready. Focus on the 4 that matter.
-
-{{< /brick_image >}}
 {{< brick_image2 >}}
 
-## The intelligence of AI.<br>The reliability of a deterministic system
+## Half the cost. Ten times the coverage
 
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/illustrations/cuate/responsive.svg)
 
-Built on [Memintel](https://memintel.io), an open-source deterministic decision engine.
+**Traditional CA:** ₹30,000–70,000/month across multiple providers. Periodic review. Reactive. Advisory charged extra. No continuous monitoring.
 
-The core problem with AI in enterprise operations: you get the power and flexibility of AI, or you get consistency and auditability. Not both.
-
-Memintel eliminates this trade-off. It uses AI to understand your monitoring intent — described in plain English, as you'd explain it to a colleague. That intent is compiled into fully deterministic logic. From that point on, every evaluation runs without AI. Same input, same output, every time.
-
-Every decision consistent, transparent, and auditable. You can deliver outsourced monitoring on SLAs comparable to any IT system.
+**Memintel:** ₹15,000–35,000/month. Everything included. Continuous monitoring. Proactive. Monthly advisory as standard. One team, one invoice.
 
 {{< /brick_image2 >}}
 {{< brick_features >}}
 
-## For your practice
+## Why Memintel
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Close without fire drills
+### Unlike traditional CAs
 
-Go from month-end fire drills to planned, predictable closes.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Deploy a new client in hours
-
-18 pre-built agents work immediately. Custom agents take minutes.
+We monitor continuously, not at month-end. 43 AI agents watch your books 24/7.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Hands-on support
+### Unlike software tools
 
-Our team provides hands-on support in creating and managing agents for your clients.
+We deliver the outcome, not the tool. You don't learn software. You get filed returns and clean books.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### One portal, all clients
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Unlike Big 4
 
-One portal to monitor all your clients. Scale to 50+ without adding headcount.
+We're accessible to mid-market businesses at a fraction of the cost. Same analytical rigour, without the overhead.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### No developers needed
+### Everything on one data model
 
-Your accounting professionals can deploy and manage Canvas.
+Your GST, TDS, reconciliation, close, and advisory are always in sync. No silos.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Proactive, not reactive
+
+We don't wait for month-end to find problems. Our AI catches compliance risks, reconciliation gaps, and cash flow anomalies the day they occur.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Seamless ERP integration
+### Your dedicated finance partner
 
-Tally, Zoho, SAP, QuickBooks, and any SQL database connected in minutes.
+One client relationship manager sees your complete financial picture. Not separate teams for separate services. One person who knows your business.
 
 {{< /brick_features >}}
-{{< brick_blocks >}}
+{{< brick_image2 >}}
 
-## CFO Suite — 18 pre-built monitoring agents
+## Powered by Canvas Cloud
 
-Comprehensive financial monitoring across 7 modules. Starts working the moment you connect your client's ERP.
+![](/uploads/illustrations/cuate/server.svg)
 
----
+Behind the scenes, Memintel runs on Canvas Cloud — our proprietary AI platform built on the Memintel open-source intelligence engine. Deterministic, auditable, consistent. AI understands your intent. Deterministic logic executes every time. No black-box decisions on your compliance. No hallucinated tax computations. Every alert, every computation, every recommendation is traceable and explainable.
 
-### AR Health Monitor
-
-Who owes you money, who's late, who's a credit risk.
-
-[4 agents — learn more](/cfo-suite/)
-
----
-
-### AP Management Monitor
-
-Who you owe, what's due soon, vendor concentration.
-
-[3 agents — learn more](/cfo-suite/)
-
----
-
-### Cash & Treasury Monitor
-
-Where's your cash, is it declining, do you have enough runway.
-
-[2 agents — learn more](/cfo-suite/)
-
----
-
-### GL Variance Monitor
-
-Are you overspending against budget.
-
-[1 agent — learn more](/cfo-suite/)
-
----
-
-### GST Risk Monitor
-
-Missing GSTIN, wrong rates, classification errors, ITC anomalies.
-
-[5 agents — learn more](/cfo-suite/)
-
----
-
-### Close Integrity Monitor
-
-Bank reconciliation, suspense aging, accrual reversals — monitored daily.
-
-[3 agents — learn more](/cfo-suite/)
-
----
-
-### Custom Agents
-
-Anything your client's business needs. Describe it. We compile it. It runs.
-
-[Learn more](/cfo-suite/)
-
-{{< /brick_blocks >}}
+{{< /brick_image2 >}}
 {{< brick_cta >}}
 
-## Start monitoring your clients today.
+## Ready to simplify your finance operations?
 
-Deploy a new client in hours. Always-on visibility across your entire practice.
+One team. One platform. One monthly fee. Big 4 quality at half the cost
 
-{{< button "Book a Demo" "/demo/" >}}
+{{< button "Talk to Us" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/webinar.svg)
 

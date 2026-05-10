@@ -281,6 +281,68 @@ section.contact .container.twocols .text h2 {
     margin-top: 0;
 }
 
+/* Onboarding section — 2×2 grid for 4 cards */
+.onboarding-grid section.features ul.grid.features {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+    .onboarding-grid section.features ul.grid.features {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 3-column grid override (e.g. vs Traditional CA Firms — 6 cards in 3×2) */
+.three-col-grid section.features ul.grid.features {
+    grid-template-columns: repeat(3, 1fr) !important;
+}
+
+@media (max-width: 860px) {
+    .three-col-grid section.features ul.grid.features {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .three-col-grid section.features ul.grid.features {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* Dark Monthly Cycle section — light cards on dark background */
+.dark-cycle {
+    background: var(--textDark);
+}
+
+.dark-cycle section.features {
+    background: var(--textDark) !important;
+}
+
+.dark-cycle section.features .container.small h2,
+.dark-cycle section.features .container.small p {
+    color: white !important;
+}
+
+.dark-cycle section.features ul.grid li.has_icon {
+    background: white !important;
+    border: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.dark-cycle section.features ul.grid li.has_icon h3 {
+    color: var(--textDark) !important;
+}
+
+.dark-cycle section.features ul.grid li.has_icon p {
+    color: var(--textMedium) !important;
+}
+
+.dark-cycle section.features ul.grid li.has_icon p.image {
+    background: var(--textDark) !important;
+    border-color: rgba(37, 99, 235, 0.5) !important;
+}
+
 /* Responsive tweaks */
 @media (max-width: 768px) {
     section.intro h1 {

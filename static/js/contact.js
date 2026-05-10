@@ -24,8 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const companyType = getValue('company_type');
     const numClients = getValue('num_clients');
     if (phone) parts.push(`Phone: ${phone}`);
-    if (companyType) parts.push(`Company type: ${companyType}`);
-    if (numClients) parts.push(`Number of clients: ${numClients}`);
+    if (companyType) parts.push(`Business type: ${companyType}`);
+    if (numClients) parts.push(`ERP: ${numClients}`);
 
     const data = {
       name: getValue('name'),
@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 
       if (response.ok) {
-        form.innerHTML = '<div class="demo-success"><h3>Thank you!</h3><p>We\'ll be in touch within 24 hours to schedule your demo.</p></div>';
+        form.innerHTML = '<div class="demo-success"><h3>Thank you!</h3><p>We\'ll be in touch within 24 hours to set up a conversation.</p></div>';
       } else {
         const err = await response.json().catch(() => ({}));
         alert(err.error || 'Something went wrong. Please try again.');

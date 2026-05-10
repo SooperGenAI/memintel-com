@@ -1,102 +1,149 @@
 ---
-title: For Partners
+title: How We Work
 ---
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
-# For Accounting Firms & BPOs
+# How Memintel works with you
+
+We don't hand you software and walk away. We become your continuously connected finance operations partner. Here's how it works
 
 {{< /brick_title >}}
-{{< brick_image >}}
 
-## From month-end fire drills to planned closes
+<div class="three-col-grid">
 
-![](/uploads/illustrations/cuate/version-control2.svg)
-
-Today, your team spends 3-5 days per client scrambling through bank reconciliations, suspense accounts, and accrual reversals. Canvas does this continuously. By the time close arrives, everything is already checked.
-
-The Close Readiness Score gives your clients a single number they understand. The Portfolio View gives you visibility across all clients at once.
-
-{{< /brick_image >}}
-{{< brick_image2 >}}
-
-## Deployment is fast. Not months — hours
-
-![](/uploads/illustrations/cuate/setup.svg)
-
-Connect ERP. Agents auto-deploy. First alerts in minutes.
-
-Your accounting professionals can deploy this — no engineers required. The platform is designed to be operated by people who understand finance, not people who understand software.
-
-Our team is with you for the first few deployments to make sure everything is tuned correctly for your client's specific business.
-
-{{< /brick_image2 >}}
 {{< brick_features >}}
 
-## Scale without adding headcount
+## Onboarding in minutes, not months
+
+We're live before your first cup of coffee gets cold
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Multi-tenant from day one
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Connect
 
-One partner managing 50+ clients from a single dashboard. Each client fully isolated — their data, their alerts, their portal. You see everything. They see only their own.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Pre-built agents, immediately
-
-No scoping sessions. No development. Connect the ERP and 18 agents across 7 modules start monitoring immediately. You're delivering value before the client finishes their first cup of coffee.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Custom agents in minutes
-
-When a client has a specific monitoring need, describe it in plain English. A new agent is running within minutes. No tickets. No waiting.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Our team, your back office
-
-We work alongside you to create custom agents, tune thresholds, and manage the monitoring for your clients. You bring the domain expertise. We handle the platform operations.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### White-label ready
-
-Your brand, your client relationship. Canvas works behind the scenes. Your clients see your firm's expertise, not our platform.
+We plug into your ERP — Tally, Zoho, SAP, or any system. One-click pairing. Your data flows in automatically.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Automated reporting
+### Deploy
 
-Presentation-ready reports for every agent and executive dashboards — generated on demand, ready to share with your clients in one click.
+43 AI agents activate instantly against your financial data. First alerts fire within minutes.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Go live
+
+Your client relationship manager reviews initial findings and you're operational. No training. No migration. No disruption.
 
 {{< /brick_features >}}
+
+</div>
+
+<div class="dark-cycle">
+
+{{< brick_features >}}
+
+## Your Monthly Cycle
+
+Every month follows the same predictable rhythm. No fire drills. No filing-day surprises
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Day 1–10
+
+Continuous monitoring. Agents fire alerts on anomalies as transactions flow in. Bank reconciliation runs daily. You see real-time financial health on your dashboard.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Day 11
+
+GSTR-1 auto-computed, classified, and validated. Ready for your review.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Day 12–14
+
+GSTR-2B reconciliation run. ITC impact computed. Vendor follow-up emails generated.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Day 15–18
+
+GSTR-3B computed with full ITC adjustments. TDS challans verified.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Day 19–20
+
+Filing completed. TDS deposited. No penalties.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Day 21–25
+
+Month-end close process: trial balance, suspense clearance, accrual checks.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Day 25–28
+
+Monthly CFO advisory report delivered — compliance summary, priority actions, market context.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Day 28–30
+
+Close signed off. Financial statements finalised. All compliance confirmed. Your books are clean and audit-ready.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Every day
+
+Your client portal shows real-time status — alerts, reconciliation health, close readiness, compliance status. Full transparency, no surprises.
+
+{{< /brick_features >}}
+
+</div>
+
 {{< brick_image >}}
 
-## Technical support that goes further than documentation
+## Your Client Portal
+
+![](/uploads/illustrations/cuate/version-control2.svg)
+
+You get a dedicated portal at [app.memintel.com](https://app.memintel.com) where you see everything: alerts, reconciliation status, close readiness, compliance status, and reports. The same dashboard your Memintel team uses — full transparency, no black boxes.
+
+{{< /brick_image >}}
+{{< brick_image2 >}}
+
+## Your Team
 
 ![](/uploads/illustrations/cuate/webinar.svg)
 
-Our team provides hands-on support — not just a help centre. When you're deploying a new client with unusual data structures, we help you build the right agents. When a threshold needs tuning after the first month, we review it with you.
+You work with a dedicated client relationship manager who sees your complete financial picture — GST, TDS, reconciliation, close, advisory — in one view. Not separate teams for separate services. One person who knows your business.
 
-You bring the accounting expertise. We provide the platform expertise. Together you deliver a monitoring service your clients will depend on.
-
-{{< /brick_image >}}
+{{< /brick_image2 >}}
 {{< brick_cta >}}
 
-## Ready to add always-on monitoring to your practice?
+## Ready to simplify your finance operations?
 
-Start with one client. Scale to fifty. Our team will walk you through the first deployment.
+A single agreement. A single team. Live in seven days
 
-{{< button "Become a Partner" "/demo/" >}}
+{{< button "Talk to Us" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/design.svg)
 
