@@ -32,7 +32,7 @@ End-to-end TDS management. Deduction computation per payment against applicable 
 
 ## 3. GSTR-2B Reconciliation
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/uploads/illustrations/cuate/setup.svg)
 
 4-pass intelligent matching of your purchase records against GSTR-2B. Exact matching, amount-tolerant matching, invoice similarity matching, and unmatched classification. Live ITC impact computation — confirmed, provisional, blocked, and at-risk credit. Automated vendor follow-up emails for non-compliant suppliers. Human-supervised review for edge cases.
 
