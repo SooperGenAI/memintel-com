@@ -170,7 +170,7 @@ We deliver the outcome, not the tool. You don't learn software. You get filed re
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### Unlike Big 4
 
-We're accessible to mid-market businesses at a fraction of the cost. Same analytical rigour, without the overhead.
+We're accessible to our customers at a fraction of the cost. Same analytical rigour, without the overhead.
 
 ---
 
