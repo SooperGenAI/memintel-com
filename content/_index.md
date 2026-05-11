@@ -142,9 +142,9 @@ GST filed. TDS deposited. Books reconciled. Close completed. Advisory delivered.
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
-**Traditional CA:** ₹30,000–70,000/month across multiple providers. Periodic review. Reactive. Advisory charged extra. No continuous monitoring.
+**Traditional CA:** Multiple providers. Periodic review. Reactive. Advisory charged extra. No continuous monitoring. And still — problems discovered at filing time.
 
-**Memintel:** ₹15,000–35,000/month. Everything included. Continuous monitoring. Proactive. Monthly advisory as standard. One team, one invoice.
+**Memintel:** Everything included. One team. Continuous monitoring. Proactive. Monthly advisory as standard. At a fraction of what you're paying today.
 
 {{< /brick_image2 >}}
 {{< brick_features >}}
