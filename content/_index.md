@@ -30,11 +30,14 @@ Most of the work happens in a scramble before filing deadlines. Reconciliation i
 Memintel is a Chartered Accountant firm powered by 43 AI agents that watch your books every minute of every day. Not a software tool you have to learn. Not a dashboard you have to check. A finance operations team — backed by AI that has already found the problem before your current CA even opens the file. We do the same work. We just do it continuously, accurately, and at a fraction of the cost.
 
 {{< /brick_image2 >}}
+
+<div class="three-col-grid">
+
 {{< brick_features >}}
 
 ## What you get
 
-Eight integrated services. One team. One monthly fee
+Nine integrated services. One team. One monthly fee
 
 ---
 
@@ -92,7 +95,17 @@ Monthly report with prioritised actions, ITC optimisation, industry benchmarks, 
 
 P&L, Balance Sheet, Cash Flow, segment analysis, budget vs actuals — auto-generated from your ERP data.
 
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Income Tax & 26AS
+
+26AS reconciliation, advance tax tracking, tax provision estimation. Mismatches caught before return filing, not during.
+
 {{< /brick_features >}}
+
+</div>
+
 {{< brick_features >}}
 
 ## How it works
@@ -105,6 +118,8 @@ Three steps. We do the heavy lifting from day one
 ### We connect
 
 We plug into your ERP — Tally, Zoho, SAP, QuickBooks, Xero, any SQL database. You change nothing about how you work.
+
+20 connectors for every major ERP and data platform. [See all connectors →](/connectors/)
 
 ---
 
@@ -179,6 +194,61 @@ We don't wait for month-end to find problems. Our AI catches compliance risks, r
 One client relationship manager sees your complete financial picture. Not separate teams for separate services. One person who knows your business.
 
 {{< /brick_features >}}
+
+<div class="three-col-grid">
+
+{{< brick_features >}}
+
+## Capabilities no other platform offers
+
+What only Memintel can do
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Vendor follow-up automation
+
+Auto-generated emails with invoice details sent to non-compliant vendors. Batch send in one click. No other GST tool does this.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### ITC intelligence
+
+Blocked credit detection (Section 17(5)), Rule 37 non-payment reversal, Rule 42 exempt apportionment — computed automatically with full audit trail.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Cross-ERP normalisation
+
+One client on Tally, another on Zoho, a third on SAP? One workspace, one data model, one workflow. No other platform supports this.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Custom monitoring in plain English
+
+Describe any business rule — *"Alert if food cost exceeds 35% of revenue"* — and Canvas compiles it into a deterministic query that runs continuously.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Close Readiness Score
+
+A single number that tells you if the books are ready to close — updated every day, not discovered at month-end.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### AI field mapping (90.7% accuracy)
+
+Connect any database. Our AI reads cryptic, abbreviated, even Hindi field names and maps them to standard financial entities automatically.
+
+{{< /brick_features >}}
+
+</div>
+
 {{< brick_image2 >}}
 
 ## Powered by Canvas Cloud

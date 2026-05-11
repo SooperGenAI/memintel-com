@@ -59,6 +59,27 @@ Tally, Zoho, SAP, QuickBooks, Xero, SQL databases. We adapt to you, not the othe
 
 Your service quality doesn't depend on whether your accountant is having a bad day. Same rigour every month.
 
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Vendor follow-ups, automated
+
+Vendor follow-up emails generated automatically — your CA doesn't chase vendors for you.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Close Readiness Score
+
+A number, not a verbal *"we're almost done"* on the morning of the deadline.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### 26AS reconciliation automated
+
+Mismatches between your books and government records caught in real time, not during filing season.
+
 {{< /brick_features >}}
 
 </div>
@@ -116,20 +137,6 @@ Filed returns, clean books, actionable insights — not a tool you have to opera
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Zero learning curve
-
-You don't learn software, hire staff, or manage compliance calendars. We do.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Improvements compound automatically
-
-Every platform improvement makes your service better — without an upgrade cycle on your side.
-
----
-
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
 ### Custom monitoring rules
 
@@ -148,6 +155,20 @@ AI advisory transforms compliance data into strategic recommendations — not ju
 ### Works with any ERP
 
 Tally, Zoho, SAP, QuickBooks, Xero, or any SQL database. We adapt to your system — you never migrate or switch.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### ITC blocked credit detection
+
+Section 17(5), Rule 37, Rule 42 — no generic tool computes these automatically.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Cross-ERP support
+
+Tally + Zoho + SAP in one workspace. No tool does this.
 
 {{< /brick_features >}}
 

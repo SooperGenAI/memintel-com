@@ -12,6 +12,8 @@ menuitems:
     link: /partners/
   - title: Why Memintel
     link: /cfo-suite/
+  - title: Connectors
+    link: /connectors/
 cta:
   active: true
   title: Talk to Us
