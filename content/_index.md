@@ -3,31 +3,38 @@ title: Home
 ---
 {{< brick_intro >}}
 
-# Your AI-powered Chartered Accountant
+**For CA/CPA Firms**
 
-One team handles your entire finance function — compliance to advisory — powered by AI that never sleeps.<br>10× the quality of a Big 4 firm, at half the cost
+# The AI platform built for accounting firms
 
-{{< button "Talk to Us" "/demo/" >}}
+Give your CA or CPA firm the infrastructure to serve more clients, catch more issues, and deliver real advisory — without hiring more people. Canvas Cloud runs underneath your firm so your team can focus on what only humans can do.
+
+{{< button "See a Live Demo" "/demo/" >}}
+{{< button2 "Talk to Us" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/assets.svg)
 
 {{< /brick_intro >}}
 {{< brick_image >}}
 
-## Your CA is manual, reactive, and last-minute
+## The work is still manual. The deadlines are still the same.
 
 ![](/uploads/illustrations/cuate/entries.svg)
 
-Most of the work happens in a scramble before filing deadlines. Reconciliation is done on spreadsheets. Compliance issues are discovered at filing time, not when they occur. Advisory, if it exists at all, is a backward-looking afterthought. The work itself is largely rules-based and repetitive — but it's still being done manually, the same way it was done twenty years ago.
+Most accounting work happens in a scramble before filing deadlines. Reconciliation is done on spreadsheets. Compliance issues are discovered at filing time, not when they occur. Advisory, if it exists at all, is a backward-looking afterthought. The work itself is largely rules-based and repetitive — but it's still being done manually, the same way it was done twenty years ago.
+
+Your clients expect more. Regulations are more complex. And your team can only do so much.
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-## What if your CA never slept?
+## What if your firm never missed anything?
 
 ![](/uploads/illustrations/cuate/version-control.svg)
 
-Memintel is a Chartered Accountant firm powered by 43 AI agents that watch your books every minute of every day. Not a software tool you have to learn. Not a dashboard you have to check. A finance operations team — backed by AI that has already found the problem before your current CA even opens the file. We do the same work. We just do it continuously, accurately, and at a fraction of the cost.
+Canvas Cloud is the operating layer that runs underneath your firm. Connect your clients' ERPs, deploy AI agents that watch every book continuously, and let your team focus on the work that actually requires judgment — strategy, relationships, and advice.
+
+43 pre-built agents monitor bookkeeping, compliance, taxes, cash flow, and more — across every client, every day. Problems are caught the day they occur. Filings are prepared before you ask. And your team arrives at every client meeting already knowing what needs attention.
 
 {{< /brick_image2 >}}
 
@@ -35,163 +42,91 @@ Memintel is a Chartered Accountant firm powered by 43 AI agents that watch your 
 
 {{< brick_features >}}
 
-## What you get
-
-Nine integrated services. One team. One monthly fee
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### GST Compliance
-
-GSTR-1/3B computed, validated, and filed. ITC optimised with all statutory adjustments. Vendor follow-ups handled.
+## Built for firms that want to do more with less
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
-### TDS Compliance
+### Continuous monitoring, not periodic review
 
-Deductions computed per payment. Challans tracked. 26AS reconciled. Quarterly returns filed.
+AI agents watch every client's books 24×7. Reconciliation gaps, compliance risks, overdue invoices, payroll variances — caught the day they occur, not discovered at month-end or filing time.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Bank Reconciliation
+### Proactive, not reactive
 
-Daily automated matching of bank entries against your books. Unreconciled items flagged and resolved.
+Canvas surfaces issues before your team would find them manually. Your clients stop calling with problems. You start calling them with solutions.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### GSTR-2B Reconciliation
+### Single control plane for all clients
 
-4-pass intelligent matching against your purchase records. Live ITC impact computed. Vendor follow-ups generated.
+Every client, every module, one workspace. Bookkeeping, compliance, taxes, CFO intelligence — always in sync. No switching between tools. No siloed data.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Month-End Close
+### Easy integration with any ERP
 
-Structured checklist with automated validation. Suspense cleared. Accruals verified. Books closed on time, every time.
+20+ connectors for Tally, Zoho, SAP, QuickBooks, Xero, and any SQL database. AI-assisted field mapping with 90%+ accuracy. Live in minutes, not months.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Operate everything through one assistant
+
+Your team manages every client, every workflow, every action through the Canvas Assistant — a chat-based interface that understands your work. Ask a question, get an answer grounded in real data. Queue an action, it waits for your approval.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Continuous Monitoring
+### Full coverage across every function
 
-43 AI agents watch every invoice, payment, and GL entry around the clock. Problems caught the day they occur.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Advisory & CFO Reports
-
-Monthly report with prioritised actions, ITC optimisation, industry benchmarks, competitor signals, and market context.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### MIS & Reporting
-
-P&L, Balance Sheet, Cash Flow, segment analysis, budget vs actuals — auto-generated from your ERP data.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Income Tax & 26AS
-
-26AS reconciliation, advance tax tracking, tax provision estimation. Mismatches caught before return filing, not during.
+Bookkeeping. Bank reconciliation. Payroll. Tax compliance. Close. CFO intelligence. Budget. Monitoring agents. All in one platform — India and US.
 
 {{< /brick_features >}}
 
 </div>
 
-{{< brick_features >}}
-
-## How it works
-
-Three steps. We do the heavy lifting from day one
-
----
-
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### We connect
-
-We plug into your ERP — Tally, Zoho, SAP, QuickBooks, Xero, any SQL database. You change nothing about how you work.
-
-20 connectors for every major ERP and data platform. [See all connectors →](/connectors/)
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### We monitor
-
-43 AI agents watch your books continuously. Compliance risks, reconciliation gaps, cash flow anomalies, overdue invoices — caught in real time.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### We deliver
-
-GST filed. TDS deposited. Books reconciled. Close completed. Advisory delivered. Every month, on time, without drama.
-
-{{< /brick_features >}}
 {{< brick_image2 >}}
 
-## Half the cost. Ten times the coverage
+## AI does 95% of the work. You make the call.
 
 ![](/uploads/illustrations/cuate/responsive.svg)
 
-**Traditional CA:** Multiple providers. Periodic review. Reactive. Advisory charged extra. No continuous monitoring. And still — problems discovered at filing time.
+Canvas does the analysis, the computation, and the preparation. But nothing leaves without your approval. Every filing, every client email, every journal entry is queued for your review — waiting for your go-ahead.
 
-**Memintel:** Everything included. One team. Continuous monitoring. Proactive. Monthly advisory as standard. At a fraction of what you're paying today.
+This is not automation that runs without you. This is a platform that removes the manual work so you can spend your time on decisions, not data entry. Your judgment stays in the loop. Your professional liability stays where it belongs — with you.
+
+- Every action requires confirmation before execution
+- Full audit trail on every computation, alert, and recommendation
+- Nothing is sent, filed, or posted without a human approving it first
 
 {{< /brick_image2 >}}
+
 {{< brick_features >}}
 
-## Why Memintel
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Unlike traditional CAs
-
-We monitor continuously, not at month-end. 43 AI agents watch your books 24/7.
+## Built for India. Built for the US. One platform.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Unlike software tools
+### India
 
-We deliver the outcome, not the tool. You don't learn software. You get filed returns and clean books.
+GST lifecycle, TDS compliance, GSTR-2B reconciliation, 26AS, Ind AS close, ITC optimisation. Everything a CA firm needs to run a complete India compliance practice.
+
+[See India modules →](/india/)
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Unlike Big 4
+### United States
 
-We're accessible to our customers at a fraction of the cost. Same analytical rigour, without the overhead.
+Sales tax, nexus tracking, 1099 compliance, payroll tax oversight, GAAP close, CFO intelligence. Everything a CPA firm needs to run a complete US accounting practice.
 
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Everything on one data model
-
-Your GST, TDS, reconciliation, close, and advisory are always in sync. No silos.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Proactive, not reactive
-
-We don't wait for month-end to find problems. Our AI catches compliance risks, reconciliation gaps, and cash flow anomalies the day they occur.
-
----
-
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Your dedicated finance partner
-
-One client relationship manager sees your complete financial picture. Not separate teams for separate services. One person who knows your business.
+[See US modules →](/us/)
 
 {{< /brick_features >}}
 
@@ -199,83 +134,60 @@ One client relationship manager sees your complete financial picture. Not separa
 
 {{< brick_features >}}
 
-## Capabilities no other platform offers
-
-What only Memintel can do
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Vendor follow-up automation
-
-Auto-generated emails with invoice details sent to non-compliant vendors. Batch send in one click. No other GST tool does this.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### ITC intelligence
-
-Blocked credit detection (Section 17(5)), Rule 37 non-payment reversal, Rule 42 exempt apportionment — computed automatically with full audit trail.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Cross-ERP normalisation
-
-One client on Tally, another on Zoho, a third on SAP? One workspace, one data model, one workflow. No other platform supports this.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Custom monitoring in plain English
-
-Describe any business rule — *"Alert if food cost exceeds 35% of revenue"* — and Canvas compiles it into a deterministic query that runs continuously.
+## What this means for your practice
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Close Readiness Score
+### Do more with the same team
 
-A single number that tells you if the books are ready to close — updated every day, not discovered at month-end.
+One CA using Canvas serves 3× the clients they could manage manually. The agents handle the watching, the chasing, and the computing. Your team handles the judgment. Grow your client base without growing your headcount.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### AI field mapping (90.7% accuracy)
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Deliver advisory, not just compliance
 
-Connect any database. Our AI reads cryptic, abbreviated, even Hindi field names and maps them to standard financial entities automatically.
+When bookkeeping and compliance run on autopilot, your team has time for the work clients actually value — cash flow planning, tax strategy, business advice. That's where the fees are. Canvas makes advisory a standard service, not an upsell.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Catch what you'd otherwise miss
+
+A nexus threshold crossed silently. A vendor W-9 gap discovered at January filing. A payroll deposit overdue by 48 days. A bank reconciliation variance sitting unresolved. Canvas catches these the day they happen. Your reputation stays intact.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Grow without hiring
+
+Add clients without adding headcount. Canvas scales with your firm — same platform, same workflow, same quality — whether you have 10 clients or 100.
 
 {{< /brick_features >}}
 
 </div>
 
-{{< brick_image2 >}}
+{{< brick_image >}}
 
 ## Powered by Canvas Cloud
 
 ![](/uploads/illustrations/cuate/server.svg)
 
-Behind the scenes, Memintel runs on Canvas Cloud — our proprietary AI platform built on the Memintel open-source intelligence engine. Deterministic, auditable, consistent. AI understands your intent. Deterministic logic executes every time. No black-box decisions on your compliance. No hallucinated tax computations. Every alert, every computation, every recommendation is traceable and explainable.
+Behind every alert, every computation, and every recommendation is Canvas Cloud — Memintel's proprietary AI platform built on the open-source Memintel.io intelligence engine.
 
-{{< /brick_image2 >}}
-{{< brick_image >}}
+AI understands your intent. Deterministic logic executes every time. No black-box decisions on your clients' compliance. No hallucinated tax computations. Every alert is traceable. Every computation is reproducible. Every recommendation is auditable.
 
-## Built on Memintel.io — the open-source decision engine for Agentic AI
-
-![](/uploads/illustrations/cuate/static-website.svg)
-
-At the heart of Canvas Cloud is Memintel.io — our open-source deterministic semantic compiler purpose-built for agentic AI systems. Memintel.io separates AI interpretation from operational execution: AI understands your intent once, then deterministic compiled logic runs forever. No runtime LLM calls. No hallucinations. No black-box decisions on your compliance. Every alert is traceable. Every computation is reproducible. Every decision is auditable. This is what makes Canvas fundamentally different from every other AI-powered finance tool.
-
-{{< button "Explore Memintel.io" "https://www.memintel.io/" >}}
+{{< button "Learn about Memintel.io" "/memintel-io/" >}}
 
 {{< /brick_image >}}
 {{< brick_cta >}}
 
-## Ready to simplify your finance operations?
+## Ready to see Canvas Cloud in action?
 
-One team. One platform. One monthly fee. Big 4 quality at half the cost
+We'll show you a live demo on a real client account — bookkeeping, compliance, CFO intelligence, and the Canvas Assistant — all running together.
 
-{{< button "Talk to Us" "/demo/" >}}
+{{< button "See a Live Demo" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/webinar.svg)
 

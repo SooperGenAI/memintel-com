@@ -1,42 +1,44 @@
 action: https://formspree.io/f/YOUR_FORM_ID
 placeholders: false
 fields:
-  - name: title
-    input_type: html
-    label: <h3>Tell us about your business</h3>
-    required: false
   - name: name
     input_type: text
     label: Name
     required: true
-  - name: company
+  - name: firm_name
     input_type: text
-    label: Company
+    label: Firm name
     required: true
   - name: email
     input_type: email
     label: Email address
     required: true
-  - name: phone
-    input_type: tel
-    label: Phone
-    required: false
-  - name: company_type
+  - name: country
     input_type: select
-    label: Business type
+    label: Country
     options:
-      - Manufacturing
-      - Services
-      - Retail / E-commerce
-      - Distribution / Trading
-      - SaaS / Technology
+      - India
+      - US
       - Other
     required: true
   - name: num_clients
     input_type: text
-    label: Your ERP (Tally, Zoho, SAP, etc.)
+    label: Number of clients
+    required: false
+  - name: primary_interest
+    input_type: select
+    label: Primary interest
+    options:
+      - India compliance
+      - US compliance
+      - Both
+      - Just exploring
+    required: true
+  - name: message
+    input_type: textarea
+    label: Message (optional)
     required: false
   - name: submit
     input_type: submit
-    label: Talk to Us
+    label: Request a Demo
     required: true

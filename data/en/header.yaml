@@ -6,14 +6,16 @@ preheader:
 menuitems:
   - title: Home
     link: /
-  - title: Services
+  - title: Product
     link: /product/
-  - title: How We Work
-    link: /partners/
-  - title: Why Memintel
-    link: /cfo-suite/
-  - title: Connectors
-    link: /connectors/
+  - title: India
+    link: /india/
+  - title: US
+    link: /us/
+  - title: How It Works
+    link: /how-it-works/
+  - title: Memintel.io
+    link: /memintel-io/
 cta:
   active: true
   title: Talk to Us

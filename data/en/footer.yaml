@@ -2,15 +2,17 @@ logo_image:
 menuitems:
   - title: Home
     link: /
-  - title: Services
+  - title: Product
     link: /product/
-  - title: How We Work
-    link: /partners/
-  - title: Why Memintel
-    link: /cfo-suite/
-  - title: Connectors
-    link: /connectors/
+  - title: India
+    link: /india/
+  - title: US
+    link: /us/
+  - title: How It Works
+    link: /how-it-works/
+  - title: Memintel.io
+    link: /memintel-io/
   - title: Talk to Us
     link: /demo/
 socials:
-footer_text: Memintel is your AI-powered Chartered Accountant — powered by [Canvas Cloud](https://memintel.io). &copy; 2025 SooperGenAI.
+footer_text: Memintel — The AI platform for CA and CPA firms. Powered by [Canvas Cloud](https://www.memintel.com) and [Memintel.io](https://www.memintel.io). &copy; 2025 SooperGenAI.

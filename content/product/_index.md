@@ -1,136 +1,144 @@
 ---
-title: Services
+title: Product
 ---
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
-# Our Services
+**AI Platform**
 
-Memintel delivers nine integrated finance services through a single client relationship. Each service is powered by Canvas Cloud's AI agents, computation engines, and reconciliation intelligence
+# Canvas Cloud
+
+The complete AI platform for accounting and CPA firms
 
 {{< /brick_title >}}
 {{< brick_image >}}
 
-## 1. GST Compliance
+## What Canvas Cloud does
 
-![](/uploads/illustrations/cuate/version-control2.svg)
+![](/uploads/illustrations/cuate/version-control.svg)
 
-Complete GST lifecycle management. GSTR-1 preparation with 7-category invoice classification. GSTR-3B computation with full ITC adjustments — Section 17(5) blocked credit, Rule 37 non-payment reversal, Rule 42 exempt apportionment, RCM credit, and reconciliation adjustments. Government-portal JSON export. 5 GST monitoring agents watch for anomalies continuously.
+Canvas Cloud connects to your clients' ERPs, normalises all financial data into a single data model, and deploys AI agents that monitor, compute, and act — continuously. Your team operates everything through the Canvas Assistant and a structured workflow queue.
 
-- 10 pre-filing validation rules with error and warning severity
-- Interest calculation (18%/24%) with per-head days-delayed breakdown
-- Late fee calculation with statutory caps (₹50/day regular, ₹20/day nil)
-- Section 49A ITC utilisation order (IGST→CGST→SGST) fully enforced
+**Layer 1 — Connect**<br>
+20+ ERP connectors. Tally, Zoho, SAP, QuickBooks, Xero, any SQL database, any data warehouse. AI-assisted field mapping. Live in minutes.
 
-### ITC Intelligence
+**Layer 2 — Monitor & Compute**<br>
+43 pre-built agents watch every client continuously. Bookkeeping anomalies, compliance risks, payroll variances, AR aging, cash flow gaps — caught in real time. Computation engines handle tax calculations, reconciliations, and close processes automatically.
 
-- Section 17(5) blocked credit auto-detection — keyword matching against 13 statutory categories with audit trail
-- Rule 37 reversal — auto-detects open AP invoices unpaid beyond 180 days
-- Rule 42 apportionment — proportional ITC reversal based on exempt/total turnover ratio
-- RCM credit computation
-- Reconciliation adjustment fed directly into ITC computation
+**Layer 3 — Act**<br>
+Every finding surfaces as a workflow item — alert, draft entry, draft email, checklist task, or advisory note. Nothing executes without your approval. Your team reviews, approves, and publishes. Canvas logs everything.
 
 {{< /brick_image >}}
+
+<div class="three-col-grid">
+
+{{< brick_features >}}
+
+## Everything your firm needs. One platform.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Bookkeeping
+
+Transaction review and reclassification. Chart of accounts health monitoring. Bank reconciliation with AI-assisted matching. Bill management and approval workflows. Document requests and client upload portal.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Payroll
+
+Payroll journal entry review with variance detection. Suggested correcting entries. Tax calendar with filing deadlines by jurisdiction. Continuous payroll monitoring agents.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### CFO Intelligence
+
+Financial health scoring across 9 dimensions. Book close workflow. Proforma P&L and scenario modelling. AR and AP reconciliation. Revenue recognition agent. 13-week cash flow forecast. Advisory chat.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Compliance (India)
+
+GST lifecycle — GSTR-1, GSTR-3B, GSTR-2B reconciliation. TDS compliance — Form 26Q/27Q, 26AS reconciliation. ITC intelligence with full statutory adjustments.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Compliance (US)
+
+Economic nexus tracking across all states. Sales tax filing calendar. 1099 compliance — NEC, MISC, W-9 collection. Payroll tax oversight — Form 941, 940, SUTA.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Budget
+
+Budget management with manual entry, Excel import, or AI-assisted creation. Monthly variance analysis. Budget vs actual reporting.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Agents & Workflows
+
+43 pre-built monitoring agents. Custom agents via plain English — describe a business rule, Canvas compiles it into a deterministic query. Workflow Command Center — calendar-driven delivery of all client work.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Canvas Assistant
+
+Chat-based interface for everything. Ask questions grounded in real client data. Queue actions that wait for your approval. Multi-turn conversation with full context. Works across all modules.
+
+{{< /brick_features >}}
+
+</div>
+
 {{< brick_image2 >}}
 
-## 2. TDS Compliance
+## Designed for professional accountability
 
-![](/uploads/illustrations/cuate/entries.svg)
+![](/uploads/illustrations/cuate/responsive.svg)
 
-End-to-end TDS management. Deduction computation per payment against applicable section rates. Challan generation and deposit tracking. Form 26Q and Form 27Q quarterly return preparation. Continuous monitoring for short deductions, deposit delays, and PAN mismatches.
+Every computation Canvas makes can be inspected, explained, and overridden. Every action Canvas proposes waits for human confirmation before executing. This isn't a black box — it's a transparent system designed for professionals who carry legal and fiduciary responsibility for their clients.
 
-- 26AS reconciliation to verify deductions match government records
-- Lower deduction certificate tracking
-- NSDL-format text export for Form 26Q and 27Q
+**How it works:**
+
+1. Canvas detects an issue or prepares an action
+2. It surfaces in your workflow queue with full context and supporting data
+3. You review, modify if needed, and approve
+4. Canvas executes and logs the action with full audit trail
+
+Your signature. Your approval. Your professional judgment. Canvas just removes the manual work that gets in the way.
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## 3. GSTR-2B Reconciliation
-
-![](/uploads/illustrations/cuate/setup.svg)
-
-4-pass intelligent matching of your purchase records against GSTR-2B. Exact matching, amount-tolerant matching, invoice similarity matching, and unmatched classification. Human-supervised review for edge cases.
-
-- Bulk accept matches above configurable confidence threshold
-- Vendor follow-up emails auto-generated with invoice details — batch send to all non-compliant vendors in one click
-- Live ITC breakdown: confirmed, provisional, blocked, and at-risk credit
-
-{{< /brick_image >}}
-{{< brick_image2 >}}
-
-## 4. Bank Reconciliation
-
-![](/uploads/illustrations/cuate/assets.svg)
-
-Daily automated matching of bank statement entries against GL records. Multi-pass matching with confidence scoring. Unreconciled items flagged immediately — not discovered at month-end. Duplicate detection, partial allocation, and missing entry identification.
-
-{{< /brick_image2 >}}
-{{< brick_image >}}
-
-## 5. Month-End & Year-End Close
-
-![](/uploads/illustrations/cuate/publish.svg)
-
-Structured close process with automated validation gates. Trial balance verification. Suspense account clearance — non-zero balances flagged beyond one period. Accrual reversal verification. GST/TDS cross-verification against filed returns.
-
-- Close Readiness Score — a single number that tells you if the books are ready to close, updated continuously
-- 8-item checklist: bank reconciliation, suspense accounts, accrual reversals, AR aging, AP payments, cash position, GST readiness, GL variance
-- Blocking vs non-blocking issue classification — focus on what actually prevents close
-
-{{< /brick_image >}}
-{{< brick_image2 >}}
-
-## 6. Continuous Financial Monitoring
+## Your firm, operated through conversation
 
 ![](/uploads/illustrations/cuate/static-website.svg)
 
-43 pre-built AI agents across 13 modules monitor your financial health around the clock. AR health: DSO, credit limit breaches, concentration risk, overdue invoices. AP management: large payments due, vendor concentration. Cash and treasury: position alerts, burn rate. GL variance: budget deviations. Close integrity: suspense accounts, accrual reversals, bank reconciliation status. GST risk: rate anomalies, liability spikes, ITC anomalies, classification errors. India compliance: MSMED payment delays, statutory dues, TDS compliance, revenue recognition.
+The Canvas Assistant is the primary interface for your team. Ask it anything about any client. It pulls real data, runs the right tools, and gives you answers — not dashboards to navigate.
 
-Beyond pre-built agents, we define custom monitoring rules specific to your industry — *"Alert if food cost exceeds 35% of revenue"* or *"Flag projects with unbilled revenue beyond 60 days."*
+- *"What should I focus on today?"* → Briefing across all clients, prioritised by urgency
+- *"Which of our clients are approaching sales tax nexus?"* → Multi-client nexus summary
+- *"Send a payment reminder to Blue Ridge Outdoor Co"* → Composes, previews, waits for your send
+- *"What's the ITC impact if we accept these 3 vendors?"* → Computed on the spot
+- *"Are there any payroll tax deadlines this week?"* → Calendar pulled and summarised
 
-- Configurable alert thresholds per client — each business gets monitoring tuned to their risk profile
-- Full alert history with audit trail — every alert timestamped with resolution status
-- Custom monitoring agents via natural language — describe any business rule and Canvas compiles it into a deterministic query
-
-{{< /brick_image2 >}}
-{{< brick_image >}}
-
-## 7. Advisory & CFO Reports
-
-![](/uploads/illustrations/cuate/writing.svg)
-
-Monthly CFO advisory report combining your financial data with external market intelligence. Executive summary with top risks and actions. Compliance scorecard across all services. Prioritised actions ranked by rupee impact and deadline urgency — with specific invoice and entity references. ITC optimisation recommendations. Vendor and customer risk assessment. Industry benchmarks: DSO, DPO, margins vs sector averages. Competitor signals from public filings. Trend analysis showing what's improving and deteriorating.
-
-Also available: weekly email digests, on-demand advisory via natural language, and quarterly business review decks.
-
-{{< /brick_image >}}
-{{< brick_image2 >}}
-
-## 8. MIS & Financial Reporting
-
-![](/uploads/illustrations/cuate/design.svg)
-
-Auto-generated management reports from your ERP data. Profit & Loss, Balance Sheet, Cash Flow, segment-wise analysis, and budget vs actuals variance. Cross-ERP consolidation — if you run Tally for operations and a separate system for payroll, we consolidate both into unified MIS.
-
-{{< /brick_image2 >}}
-{{< brick_image >}}
-
-## 9. Income Tax & 26AS Reconciliation
-
-![](/uploads/illustrations/cuate/devices.svg)
-
-Complete income tax compliance support. TDS deduction verification against 26AS — ensuring every deduction by your clients' customers is reflected in the government's records. Advance tax computation and tracking. Tax provision estimation for close. 26AS download, parsing, and automated reconciliation against your books — mismatches flagged instantly, not discovered during return filing.
+Every action the Assistant proposes is queued for your approval before executing.
 
 {{< /brick_image >}}
 {{< brick_cta >}}
 
-## Ready to simplify your finance operations?
+## See Canvas Cloud running on a real account
 
-One team. One platform. One monthly fee
+We'll walk you through every module — bookkeeping, compliance, CFO intelligence, and the Canvas Assistant — live on real data.
 
-{{< button "Talk to Us" "/demo/" >}}
+{{< button "See a Live Demo" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/webinar.svg)
 
