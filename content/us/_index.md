@@ -125,7 +125,7 @@ Every filing Canvas prepares, every email it drafts, every journal entry it sugg
 
 ## What US CPA firms gain with Canvas
 
-![](/uploads/illustrations/cuate/version-control2.svg)
+![](/uploads/illustrations/cuate/writing.svg)
 
 - Catch sales tax nexus before it's triggered — not after
 - Stop discovering 1099 W-9 gaps in January when it's too late
