@@ -38,16 +38,9 @@ Daily bank reconciliation with AI-assisted matching. Transaction reclassificatio
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### GST Compliance
+### GST Compliance & ITC Intelligence
 
-Complete GST lifecycle management. GSTR-1 preparation with 7-category invoice classification. GSTR-3B computation with full ITC adjustments — Section 17(5) blocked credit, Rule 37 non-payment reversal, Rule 42 exempt apportionment, RCM credit. Government-portal JSON export. GSTR-2B 4-pass intelligent matching against purchase records.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### ITC Intelligence
-
-Blocked credit detection under Section 17(5). Rule 37 non-payment reversal computed automatically. Rule 42 exempt apportionment. Section 49A utilisation order (IGST→CGST→SGST) enforced. Full audit trail on every ITC adjustment.
+Complete GST lifecycle — GSTR-1 with 7-category invoice classification, GSTR-3B computation, GSTR-2B 4-pass intelligent matching, government-portal JSON export. Full ITC intelligence: Section 17(5) blocked credit detection, Rule 37 non-payment reversal, Rule 42 exempt apportionment, Section 49A utilisation order (IGST→CGST→SGST) enforced. Full audit trail on every ITC adjustment.
 
 ---
 

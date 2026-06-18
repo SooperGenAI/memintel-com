@@ -81,6 +81,13 @@ Close completed. Financial statements finalised. Monthly CFO advisory report gen
 
 Monitoring agents running. Alerts surfacing in workflow queue. Canvas Assistant available. Nothing filed or sent without your approval.
 
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Human in the Loop
+
+Canvas does the heavy lifting every week — but every action it prepares waits for your approval before anything happens. No filing is submitted, no email is sent, no journal entry is posted without a human reviewing and confirming it first. 95% automated. 100% accountable.
+
 {{< /brick_features >}}
 
 </div>

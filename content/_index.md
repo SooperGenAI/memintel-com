@@ -10,12 +10,11 @@ title: Home
 Give your CA or CPA firm the infrastructure to serve more clients, catch more issues, and deliver real advisory — without hiring more people. Canvas Cloud runs underneath your firm so your team can focus on what only humans can do.
 
 {{< button "See a Live Demo" "/demo/" >}}
-{{< button2 "Talk to Us" "/demo/" >}}
 
 ![](/uploads/illustrations/cuate/assets.svg)
 
 {{< /brick_intro >}}
-{{< brick_image >}}
+{{< brick_image2 >}}
 
 ## The work is still manual. The deadlines are still the same.
 
@@ -25,8 +24,8 @@ Most accounting work happens in a scramble before filing deadlines. Reconciliati
 
 Your clients expect more. Regulations are more complex. And your team can only do so much.
 
-{{< /brick_image >}}
-{{< brick_image2 >}}
+{{< /brick_image2 >}}
+{{< brick_image >}}
 
 ## What if your firm never missed anything?
 
@@ -36,9 +35,9 @@ Canvas Cloud is the operating layer that runs underneath your firm. Connect your
 
 43 pre-built agents monitor bookkeeping, compliance, taxes, cash flow, and more — across every client, every day. Problems are caught the day they occur. Filings are prepared before you ask. And your team arrives at every client meeting already knowing what needs attention.
 
-{{< /brick_image2 >}}
+{{< /brick_image >}}
 
-<div class="three-col-grid">
+<div class="dark-cycle three-col-grid">
 
 {{< brick_features >}}
 
@@ -90,7 +89,7 @@ Bookkeeping. Bank reconciliation. Payroll. Tax compliance. Close. CFO intelligen
 
 </div>
 
-{{< brick_image2 >}}
+{{< brick_image >}}
 
 ## AI does 95% of the work. You make the call.
 
@@ -104,7 +103,9 @@ This is not automation that runs without you. This is a platform that removes th
 - Full audit trail on every computation, alert, and recommendation
 - Nothing is sent, filed, or posted without a human approving it first
 
-{{< /brick_image2 >}}
+{{< /brick_image >}}
+
+<div class="dark-cycle">
 
 {{< brick_features >}}
 
@@ -130,7 +131,9 @@ Sales tax, nexus tracking, 1099 compliance, payroll tax oversight, GAAP close, C
 
 {{< /brick_features >}}
 
-<div class="three-col-grid">
+</div>
+
+<div class="four-col-grid">
 
 {{< brick_features >}}
 
@@ -168,7 +171,7 @@ Add clients without adding headcount. Canvas scales with your firm — same plat
 
 </div>
 
-{{< brick_image >}}
+{{< brick_image2 >}}
 
 ## Powered by Canvas Cloud
 
@@ -180,7 +183,7 @@ AI understands your intent. Deterministic logic executes every time. No black-bo
 
 {{< button "Learn about Memintel.io" "/memintel-io/" >}}
 
-{{< /brick_image >}}
+{{< /brick_image2 >}}
 {{< brick_cta >}}
 
 ## Ready to see Canvas Cloud in action?

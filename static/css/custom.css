@@ -418,6 +418,23 @@ section.connectors-section-alt {
     }
 }
 
+/* 4-column grid override (e.g. What this means for your practice — 4 cards in a single row) */
+.four-col-grid section.features ul.grid.features {
+    grid-template-columns: repeat(4, 1fr) !important;
+}
+
+@media (max-width: 1100px) {
+    .four-col-grid section.features ul.grid.features {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .four-col-grid section.features ul.grid.features {
+        grid-template-columns: 1fr !important;
+    }
+}
+
 /* Responsive tweaks */
 @media (max-width: 768px) {
     section.intro h1 {

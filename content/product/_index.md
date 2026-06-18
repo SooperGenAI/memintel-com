@@ -93,6 +93,13 @@ Budget management with manual entry, Excel import, or AI-assisted creation. Mont
 
 Chat-based interface for everything. Ask questions grounded in real client data. Queue actions that wait for your approval. Multi-turn conversation with full context. Works across all modules.
 
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Custom Agents & Workflows
+
+Build your own monitoring agents without any coding. Describe a business rule in plain English — "Alert if AR days outstanding exceeds 60 for any client" — and Canvas compiles it into a deterministic query that runs continuously. Create multi-step workflows and approval chains from a single prompt. Your rules, your logic, your firm.
+
 {{< /brick_features >}}
 
 </div>

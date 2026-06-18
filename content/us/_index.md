@@ -84,6 +84,13 @@ Budget creation with AI agent — guided 5-decision flow using historical data. 
 
 Pre-built agents for AR aging, AP aging, duplicate payments, payroll variances, nexus thresholds, W-9 gaps, cash flow warnings, budget deviations. Custom agents via plain English. Workflow queue with full source data for every alert.
 
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Custom Agents & Workflows
+
+Build monitoring agents specific to your practice without any coding. Describe a business rule in plain English — "Alert if any client approaches nexus in a new state this quarter" — and Canvas compiles it into a deterministic query that runs continuously. Create multi-step workflows and approval chains from a single prompt.
+
 {{< /brick_features >}}
 
 </div>
